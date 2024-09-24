@@ -1,1 +1,1 @@
-# credit-scoring
+Проект credit-scoring находится в процессе доработки.
